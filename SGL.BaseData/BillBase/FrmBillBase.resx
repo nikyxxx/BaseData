@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="panelList.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="C2.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="C2.ColumnInfo" xml:space="preserve">
+    <value>28,1,0,0,0,0,Columns:0{Width:100;}	1{Width:100;}	2{Width:100;}	3{Width:100;}	4{Width:100;}	5{Width:100;}	6{Width:100;}	7{Width:100;Style:"Format:"N2";DataType:System.Decimal;TextAlign:RightCenter;";}	8{Width:100;Style:"Format:"N2";DataType:System.Decimal;TextAlign:RightCenter;";}	9{Width:100;}	10{Width:100;Style:"Format:"N2";DataType:System.Decimal;TextAlign:RightCenter;";}	11{Width:100;}	12{Width:100;}	13{Width:100;}	14{Width:100;}	15{Width:100;}	16{Width:100;}	17{Width:67;}	18{Width:78;}	19{Width:78;}	20{Width:70;}	</value>
+  </data>
+  <data name="C2.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:宋体, 9pt;Border:Flat,1,ControlDark,Both;}	Alternate{}	Fixed{BackColor:LightSteelBlue;ForeColor:ControlText;BackgroundImageLayout:Hide;}	Highlight{BackColor:255, 255, 220;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Transparent;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:Window;Border:Flat,1,ControlDarkDark,Both;}	SelectedColumnHeader{}	SelectedRowHeader{}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <metadata name="C1FlexGrid1.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="C1FlexGrid1.ColumnInfo" xml:space="preserve">
+    <value>80,1,0,0,0,0,Columns:0{Width:42;Name:"FEntryID";Caption:"行号";Style:"DataType:System.String;Margins:1, 0, 0, 0;TextAlign:CenterCenter;TextEffect:Flat;TextDirection:Normal;ImageAlign:CenterCenter;Trimming:None;BackgroundImageLayout:Hide;";StyleFixed:"ImageAlign:CenterCenter;";}	1{Name:"FKey";Caption:"FKey";Style:"DataType:System.String;TextAlign:LeftCenter;";}	2{Name:"FItemID";Caption:"物料内码";Style:"DataType:System.Int64;TextAlign:RightCenter;";}	3{Width:150;AllowSorting:False;Name:"CItemNumber";Caption:"物料代码*";AllowDragging:False;AllowEditing:False;Style:"DataType:System.String;BackColor:Window;Margins:1, 1, 1, 1;TextAlign:LeftCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	4{Width:150;AllowSorting:False;Name:"CItemName";Caption:"物料名称";AllowDragging:False;AllowEditing:False;Style:"DataType:System.String;BackColor:Window;Margins:1, 1, 1, 1;TextAlign:LeftCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";StyleFixed:"Margins:1, 1, 1, 1;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	5{Width:100;AllowSorting:False;Name:"CSpec";Caption:"规格";AllowDragging:False;AllowEditing:False;Style:"DataType:System.String;BackColor:Window;Margins:1, 1, 1, 1;TextAlign:LeftCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	6{Width:100;Name:"FEntrySelfB0157";Caption:"门幅";Style:"DataType:System.String;BackColor:Window;Margins:1, 1, 1, 1;TextAlign:LeftCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	7{Name:"FEntryCode";Caption:"销售合约ID";Style:"DataType:System.Int32;BackColor:Window;TextAlign:RightCenter;";}	8{Width:100;AllowSorting:False;Name:"CEntryCodeName";Caption:"销售合约";AllowDragging:False;AllowEditing:False;Style:"DataType:System.String;Font:宋体, 9pt;BackColor:Window;Margins:1, 0, 0, 0;TextAlign:LeftCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	9{Width:100;AllowSorting:False;Name:"FAuxPropID";Caption:"辅助属性";AllowDragging:False;AllowEditing:False;Style:"DataType:System.Int32;Font:宋体, 9pt;BackColor:Window;Margins:1, 0, 0, 0;TextAlign:RightCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	10{Width:100;AllowSorting:False;Name:"FBatchNo";Caption:"批号";AllowDragging:False;Style:"DataType:System.String;BackColor:Window;TextAlign:LeftCenter;";}	11{Width:93;AllowSorting:False;Name:"CUnitJB";Caption:"基本单位名称";AllowDragging:False;AllowEditing:False;Style:"DataType:System.String;Font:宋体, 9pt;BackColor:Window;Margins:1, 0, 0, 0;TextAlign:LeftCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	12{Width:100;Name:"FQtyMust";Caption:"基本单位申请数量";AllowEditing:False;Style:"Format:"N2";DataType:System.Double;Font:宋体, 9pt;BackColor:Window;Margins:1, 0, 0, 0;TextAlign:RightCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	13{Width:89;Name:"Fqty";Caption:"基本单位实发数量";AllowEditing:False;Style:"Format:"N2";DataType:System.Decimal;Font:宋体, 9pt;BackColor:Window;Margins:1, 0, 0, 0;TextAlign:RightCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	14{Name:"FUnitID";Caption:"单位内码";Style:"DataType:System.Int32;BackColor:Window;TextAlign:RightCenter;";}	15{Width:100;Name:"CUnIt";Caption:"单位*";AllowEditing:False;Style:"DataType:System.String;BackColor:Window;TextAlign:LeftCenter;";}	16{Width:100;Name:"FAuxQtyMust";Caption:"申请数量";AllowEditing:False;Style:"Format:"N2";DataType:System.Decimal;Font:宋体, 9pt;BackColor:Window;Margins:1, 0, 0, 0;TextAlign:RightCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	17{Width:100;Name:"FAuxQty";Caption:"实发数量*";Style:"Format:"N2";DataType:System.Decimal;BackColor:Window;TextAlign:RightCenter;";}	18{Width:100;AllowSorting:False;Name:"FEntrySelfA0155";Caption:"件数";Style:"Format:"N2";DataType:System.Decimal;BackColor:Window;TextAlign:RightCenter;";}	19{Width:100;AllowSorting:False;Name:"CAuxPropName";Caption:"辅助单位";AllowDragging:False;AllowEditing:False;Style:"DataType:System.String;Font:宋体, 9pt;BackColor:Window;Margins:1, 0, 0, 0;TextAlign:LeftCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	20{Width:100;AllowSorting:False;Name:"Fseccoefficient";Caption:"换算率";AllowDragging:False;AllowEditing:False;Style:"DataType:System.Double;Font:宋体, 9pt;BackColor:Window;Margins:1, 0, 0, 0;TextAlign:RightCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	21{Width:100;AllowSorting:False;Name:"Fsecqty";Caption:"辅助数量";AllowDragging:False;AllowEditing:False;Style:"DataType:System.Double;Font:宋体, 9pt;BackColor:Window;Margins:1, 0, 0, 0;TextAlign:RightCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	22{Width:80;AllowSorting:False;Name:"FAuxPlanPrice";Caption:"计划单价";AllowDragging:False;AllowEditing:False;Style:"Format:"N2";DataType:System.Decimal;BackColor:Window;TextAlign:RightCenter;";}	23{Width:80;AllowSorting:False;Name:"FPlanAmount";Caption:"计划价金额";AllowDragging:False;AllowEditing:False;Style:"Format:"N2";DataType:System.Decimal;BackColor:Window;TextAlign:RightCenter;";}	24{Width:80;Name:"Fauxprice";Caption:"单价";Style:"Format:"N2";DataType:System.Decimal;BackColor:Window;TextAlign:RightCenter;";}	25{Width:80;Name:"FAmount";Caption:"金额";Style:"Format:"N2";DataType:System.Decimal;BackColor:Window;TextAlign:RightCenter;";}	26{Width:150;Name:"Fnote";Caption:"备注";Style:"DataType:System.String;BackColor:Window;TextAlign:LeftCenter;";}	27{Width:50;Name:"FEntrySelfA0156";Caption:"花色号";Style:"DataType:System.String;BackColor:Window;TextAlign:LeftCenter;";}	28{Width:100;Name:"FKFDate";Caption:"生产/采购日期";Style:"Format:"d";DataType:System.DateTime;BackColor:Window;TextAlign:LeftCenter;";}	29{Width:100;Name:"FKFPeriod";Caption:"保质期(天)";Style:"DataType:System.Decimal;BackColor:Window;TextAlign:RightCenter;";}	30{Width:100;Name:"FPeriodDate";Caption:"有效期至";Style:"Format:"d";DataType:System.DateTime;BackColor:Window;TextAlign:LeftCenter;";}	31{Name:"FSCStockID";Caption:"发料仓库内码";Style:"DataType:System.Int32;BackColor:Window;TextAlign:RightCenter;";}	32{Name:"FDCSPID";Caption:"仓位ID";Style:"DataType:System.Int32;BackColor:Window;TextAlign:RightCenter;";}	33{Width:106;Name:"CSCStockID";Caption:"发料仓库*";AllowEditing:False;Style:"DataType:System.String;BackColor:Window;TextAlign:LeftCenter;";}	34{Width:100;Name:"CDCSPID";Caption:"仓位";AllowEditing:False;Style:"DataType:System.String;Font:宋体, 9pt;BackColor:Window;Margins:1, 0, 0, 0;TextAlign:LeftCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	35{Name:"FSourceInterId";Caption:"源单内码";Style:"DataType:System.Int64;BackColor:Window;TextAlign:RightCenter;";}	36{Name:"FSourceTranType";Caption:"源单类型";Style:"DataType:System.Int64;BackColor:Window;TextAlign:RightCenter;";}	37{Width:100;AllowSorting:False;Name:"FSourceBillNo";Caption:"源单编号";AllowEditing:False;Style:"DataType:System.String;BackColor:Window;Margins:1, 0, 0, 0;TextAlign:LeftCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	38{Name:"FSourceEntryID";Caption:"源单分录";Style:"DataType:System.Int32;BackColor:Window;TextAlign:RightCenter;";}	39{Name:"FBrNo";Caption:"FBrNo";Style:"DataType:System.Int32;BackColor:Window;TextAlign:RightCenter;";}	40{Name:"FQtyPrecision";Caption:"数量精度";Style:"DataType:System.Int32;BackColor:Window;TextAlign:RightCenter;";}	41{Name:"FPricePrecision";Caption:"单价精度";Style:"DataType:System.Int32;BackColor:Window;TextAlign:RightCenter;";}	42{Name:"FBatchNoFlag";Caption:"FBatchNoFlag";Style:"DataType:System.Int32;BackColor:Window;TextAlign:RightCenter;";}	43{Name:"FKFPeriodFlag";Caption:"FKFPeriodFlag";Style:"DataType:System.Int32;BackColor:Window;TextAlign:RightCenter;";}	44{Name:"FHygl";Caption:"FHygl";Style:"DataType:System.Int32;BackColor:Window;TextAlign:RightCenter;";}	45{Width:100;Caption:"s";Style:"BackColor:Window;";}	46{Width:100;Caption:"d";Style:"BackColor:Window;";}	47{Width:100;Caption:"d1";Style:"BackColor:Window;";}	48{Caption:"sw";Style:"BackColor:Window;";}	49{Caption:"ds";Style:"BackColor:Window;";}	50{Caption:"dddd";Style:"BackColor:Window;";}	51{Caption:"rt";Style:"BackColor:Window;";}	52{Caption:"w1";Style:"BackColor:Window;";}	53{Caption:"w2";Style:"BackColor:Window;";}	54{Caption:"w3";Style:"BackColor:Window;";}	55{Caption:"w4";Style:"BackColor:Window;";}	56{Caption:"w5";Style:"BackColor:Window;";}	57{Caption:"w6";Style:"BackColor:Window;";}	58{Caption:"w7";Style:"BackColor:Window;";}	59{Caption:"w8";Style:"BackColor:Window;";}	60{Caption:"w9";Style:"BackColor:Window;";}	61{Caption:"w10";Style:"BackColor:Window;";}	62{Caption:"w90";Style:"BackColor:Window;";}	63{Caption:"w12";Style:"BackColor:Window;";}	64{Caption:"w14";Style:"BackColor:Window;";}	65{Caption:"ww";Style:"BackColor:Window;";}	66{Caption:"rrrrr";Style:"BackColor:Window;";}	67{Caption:"sa";Style:"BackColor:Window;";}	68{Caption:"sgl1";Style:"BackColor:Window;";}	69{Caption:"sgl2";Style:"BackColor:Window;";}	70{Caption:"sgl3";Style:"BackColor:Window;";}	71{Caption:"sgl4";Style:"BackColor:Window;";}	72{Caption:"sgl5";Style:"BackColor:Window;";}	73{Caption:"sgl6";Style:"BackColor:Window;";}	74{Caption:"sgl7";Style:"BackColor:Window;";}	75{Caption:"sgl8";Style:"BackColor:Window;";}	76{Caption:"sgl1";Style:"BackColor:Window;";}	77{Caption:"sgl91";Style:"BackColor:Window;";}	78{Caption:"sgl33";Style:"BackColor:Window;";}	79{Caption:"sglrr";Style:"BackColor:Window;";}	</value>
+  </data>
+  <data name="C1FlexGrid1.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:宋体, 9pt;TextAlign:CenterCenter;WordWrap:True;Border:Flat,1,ControlDark,Both;}	Alternate{}	Fixed{BackColor:LightSteelBlue;ForeColor:ControlText;BackgroundImageLayout:Tile;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;WordWrap:True;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	SelectedColumnHeader{}	SelectedRowHeader{}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAGACoDAAAFgAAACgAAAAgAAAAQAAAAAEAGAAAAAAAqAwAAAAAAAAAAAAAAAAAAAAA
+        AAAAAABdEAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAq
+        CAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAqCABdEAAAAABdEAAIAAAIAAAIAAAIAAAIAAAIAAAI
+        AAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAIAAAI
+        AAAIAAAIAAAIAABdEAAqCAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAARAAASAgER
+        AQEQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAQAAAqCAAqCAAQAAAQAAAQ
+        AAARAAAWAAAQAAAQAAAQAAARAAATAQAWBQQbCAYQAAAQAAAyIRwkDg0hCQgWAwIVAQAYAAASAAAQAAAV
+        AAARAAAQAAAWAAAYAAAQAAAQAAAXAAAqCAAqCAAZAQAZAQAZAQAZAQAZAQAZAQAZAQAZAQAhCAU8JRta
+        RjloWUcZAQAZAQC/qqOojIR2Y1dHMycyHhUkDgobAgEZAQAfBwcqFBQ1Hx83ISEuGRkjCwsaAQAZAQAq
+        CAAqCAAiCAAiCAAiCAAiCAAiCAAiCAAkCQEwFQthSj26r53b1MDY0boiCAAiCAD4+PX18evl39TKxLWp
+        m5BvWVA2HRQrEAldR0WkmZnf2Njr5OS9trZ4ZGQyGBMjCAAqCAAqCAAqCAAqCAAqCAAqCAAqCAAvDARG
+        JhuGcF7Uz776+vL////49u0qCAAqCAD///////////////v///vZ0ch1XFBnSUXAs7P39fX/////////
+        ///h3Nx8YGAuDAUqCAAqCAAyCAAyCAAyCAAyCAA2DQNZNCmqlILs6Nr////////////7+/cyCAAyCAD/
+        //////////////////////+jkYelko7r6Oj////////////////////As7M6EAkqCAAqCAA7CAA7CAA7
+        CAA9CgFVLR6sloX18ef////////////////9/fw7CAA7CADz7uv08O35+Pb9/fz///////+Sd3K8qaf4
+        9vb////////////////////p4eFFFA0qCAAqCABECABECABECABRGRGgfnD18eP////////////////8
+        +/jv6eBECABECAC4mYy4m4/Mu7Ln4dr7+fj///+OaWSwlZPz8PD////////////////////bzs5NEgsq
+        CAAqCABMCgBMCgBQDwSAUUTt49b////////////////59vTczcCvj3t4SDhbIRBoLB5iJBh0PzOmhXbc
+        zsT59vSukYuZdHDd0M/8+/v////////////18PCoiohREQcqCAAqCABUEABVEABmJRTDqJP/////////
+        ///////69/Tax7uUYlBeGQhUEABUEABUDQBUDQBUDABmJRiYaFjcycLTwLyWbWatiYTczMv17e358/Pp
+        3t7CpKF1PjNWEQIqCAAqCABdEABfEgKBQjLr4tP////////////7+fbgz8GgbVtqHxJdEABdEABdEABd
+        EABdEABdEABdEABrHg6ufXHh0MrHqqafcGmkc263iIW7j4mea2V6OC5fEwNdEAAqCAAqCABpEABqFgaj
+        cF76+vb//////////v7w5N2yg2x1JRVnEABpEABoEABmEABmEABoEABpEABnEABoEACMQTHPsqTx5uPd
+        ycbBm5eqdW6aYE9wGwtpEABmEABmEAAqCAAqCAB2EAB4GwrHn4n////////////9+vfewrOQQClyEABz
+        EAB2EAB0EAByEAByEAB0EAB2EABzEAByEACAJRW8kHzy6+L///3////79/Tl07+GLx52EAByEAByEAAq
+        CAAqCAB/EACGHQ3auaP////////////69e/Rp4+HJA1/EAB/EAB/EAB/EAB/EAB/EAB/EAB/EAB/EAB/
+        EACBFQWycF3u4dX///z////////37eCQNCR/EAB/EAB/EAAqCAAqCACIEACQIw/lyLL////////////5
+        8evPnYSNIguIFACIEgCIEQCIFACIFACIEgCIEACIEACIEACIEgCIFAC0ZlXu3dX///3/////////+O2Z
+        NiOIFACIFACIFAAqCAAqCACQFACXJw/pzLb////////////68+3VoomYJg2QGACQFgCQFQCQGACQGACQ
+        FgCQFACQFACQFACQFgCTHQXAfGby5d7/////////////+O6gOSOQGACQGACQGAAqCAAqCACYGACfJg3k
+        w6n////////////8+PTguKanNh2YGACYGACYGACYGACYGACYGACYGACYGACYGACYGACjLhaYGADYqpv2
+        7ev/////+vrv282lNB2YGACYGACYGAAqCAAqCAChGAClIgrYoor////////////+/fzv2M7BZEikGwOh
+        GAChGAChGAChGAChGAChGAChGAChGACjGwK/YkqjGwKYGACYGADbq6Hx2tHNq52mLBWhGAChGAChGAAq
+        CAAqCACqGAC3GADJa1P69uj////////////59O7gsZm7QCitGACsGACvGACsGACsGACsGACsGACsGAC6
+        RjDbpZHpyrzgrpyqGACqGACqGAC5XEmvIQqqGACuGACqGAAqCAAqCAC3GAC6GQHCPSPqx63/////////
+        ///+/vz26d7foIXDSS22Hga3GAC2GAC1GAC4GAC1GADCRCzfnYr04Nb79vP89/P45uHltae3GAC3GAC1
+        GgK3GAC0GACyGAAqCAAqCADDHgDDHQDEIwnYc1r67N7////////////+/Pr36d3lt57ZiWzPXULCLA3B
+        Kw3LTzfYhHHnsZ724df++/n//////////f389vXkqpjHNRnBHgDCGADAHQDAGAAqCAAqCADLIQDLIADL
+        HwHRORrpqY7///n////////////+/fz79e/46N3xzbrmqo/mpovswKv15Nv79O/9+/n/////////////
+        ///58ePfgGnNLA3LIQDLHgDLIADLHgAqCAAqCADTIQDOIQDUIQDUJATcVTv10sL/////////////////
+        /////v3++vb89e/78+399/P+/fv////////////////////68ejopY/YQSPUIgLUIQDUIQDOIQDTIQAq
+        CAAqCADVIQDZIQDWIQDWIQDZMxXqkHj01sf/+vr/////////////////////////////////////////
+        ////////////+vXvsqDgSy3XJATWIQDWIQDWIQDUIQDbIQAqCAAqCADcIQDdIQDcIQDcIQDdIwLfMxPk
+        XEDzu6j67N7/////////////////////////////////////////+vb/+PH1w7fkUzneJQTcIQDcIQDc
+        IQDcIQDcIQDdIQAqCAAqCADlIQDlIQDlIQDlIQDlIQDlIQDmJgXoPh7rbU/zuaH59e3/////////////
+        ////////////+vP649Dzq5XsXUHoNxnmJgXlIQDlIQDlIQDlIQDlIQDlIQDlIQAqCAAqCADuIQDuIQDu
+        IQDuIQDuIQDuIQDuIQDuIgHuKQjvTi3wh2nwlXjzq5L3yLL3xavzqo3wjXDwhm3wWz7vMRHuJQTuIQDu
+        IQDuIQDuIQDuIQDuIQDuIQDuIQDuIQAqCAAqCAC3GADvIQDvIQDvIQDvIQDvIQDvIQDvIQDwIQDzIwLv
+        KQjvKgnvLAvvLw/vLw7vLAvvKQjvKAjvJAPvIQDvIQDvIQDvIQDvIQDvIQDvIQDvIQDvIQDvIQC3GAAq
+        CAAqCABUEAC3GAD2IQD2IQD2IQD2IQD2IQD2IQD2IQD2IQD2IQD2IQD2IQD2IQD2IQD2IQD2IQD2IQD2
+        IQD2IQD2IQD2IQD2IQD2IQD2IQD2IQD2IQD2IQC3GABUEAAqCAAAAABVEABVEABVEABVEABVEABVEABV
+        EABVEABVEABVEABVEABVEABVEABVEABVEABVEABVEABVEABVEABVEABVEABVEABVEABVEABVEABVEABV
+        EABVEABVEABVEAAAAACAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAgAAAAQ==
+</value>
+  </data>
+</root>
